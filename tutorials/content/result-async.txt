@@ -1,0 +1,1 @@
+Here is the result: %{first}, Hello this first text file, Hi am Second text file
